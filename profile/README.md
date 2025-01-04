@@ -16,10 +16,13 @@ Join us in building a brighter tomorrow. Let’s make education a gift that ever
 
 ## Learn & Contribute ✨
 Here are some useful resources to help you get started:
-- [Learn Computer Science 🧑‍💻<->👩‍💻 | A2Z Free Course](https://github.com/MaaWorld/ComputerScience)
-- [Learn Data Structure & Algorithm's (DSA) 🧑‍💻<->👩‍💻 | A2Z Free Course](https://github.com/MaaWorld/DataStructure-Algorithms)
-- [Learn Complete Mathematics 👨‍🎓<->👩‍🎓 | A2Z Free Course](https://github.com/MaaWorld/Mathematics) <br>
 
+<p align="center"> 
+  1. <a href="https://github.com/MaaWorld/ComputerScience">Learn Computer Science 🧑‍💻<->👩‍💻 | A2Z Free Course</a> <br>
+  2. <a href="https://github.com/MaaWorld/DataStructure-Algorithms">Learn Data Structure & Algorithm's (DSA) 🧑‍💻<->👩‍💻 | A2Z Free Course</a> <br>
+  3. <a href="https://github.com/MaaWorld/Mathematics">Learn Complete Mathematics 👨‍🎓<->👩‍🎓 | A2Z Free Course</a>
+</p> 
+    
 Feel free to explore these resources to enhance your learning experience!
 
 <p align="center">
