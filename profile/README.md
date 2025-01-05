@@ -23,7 +23,14 @@ Here are some useful resources to help you get started:
   3. <a href="https://github.com/MaaWorld/Mathematics">Learn Complete Mathematics 🧑‍💻<->👩‍💻 | A2Z Free Course</a>
 </p>  
     
-Feel free to explore these resources to enhance your learning experience!
+Feel free to explore these resources to enhance your learning experience! <br>
+
+<strong>NOTE: We are always looking for contributors to help us improve our resources. If you are interested in contributing, please join <a href="https://github.com/orgs/MaaWorld/discussions">discussions</a>, give your <a href="https://github.com/orgs/MaaWorld/discussions/1">introduction</a> and share your <a href="https://github.com/orgs/MaaWorld/discussions/2">ideas</a> with us. We would love to hear from you! 🤗</strong>
+
+~ Prince Chhirolya (Founder & CEO - Chhirolya Technologies & Maa World Foundation)
+- Email: [chhirolyaprince@gmail.com](mailto:chhirolyaprince@gmail.com)
+- LinkedIn: [Prince Chhirolya](https://www.linkedin.com/in/prince-chhirolya/)
+- Twitter: [Prince Chhirolya](https://twitter.com/pr_chhirolya)
 
 <p align="center">
   <img src="MWF-Mission.png" style="max-width: 100%; height: auto;" alt="Maa World Foundation Mission" />
