@@ -1,4 +1,4 @@
-## Hi there 👋 
+<img src="img/maa-world-foundation.png" style="max-width: 100%; height: auto;" alt="Maa World Foundation" />
 
 <h1 align="center">Maa World Foundation</h1>
 <p align="center">Learn Together, Grow Together | Spread your knowledge around the world 🤗</p>
@@ -24,14 +24,21 @@ Here are some useful resources to help you get started:
 </p>  
     
 Feel free to explore these resources to enhance your learning experience! <br>
+<br>
 
-<strong>NOTE: We are always looking for contributors to help us improve our resources. If you are interested in contributing, please join <a href="https://github.com/orgs/MaaWorld/discussions">discussions</a>, give your <a href="https://github.com/orgs/MaaWorld/discussions/1">introduction</a> and share your <a href="https://github.com/orgs/MaaWorld/discussions/2">ideas</a> with us. We would love to hear from you! 🤗</strong>
+>
+> <strong>NOTE: We are always looking for contributors to help us improve our resources. If you are interested in contributing, please join <a href="https://github.com/orgs/MaaWorld/discussions">discussions</a>, give your <a href="https://github.com/orgs/MaaWorld/discussions/1">introduction</a> and share your <a href="https://github.com/orgs/MaaWorld/discussions/2">ideas</a> with us. We would love to hear from you! 🤗</strong>
+>
 
-~ Prince Chhirolya (Founder & CEO - Chhirolya Technologies & Maa World Foundation)
+<br>
+
+Prince Chhirolya (Founder & CEO - Chhirolya Technologies & Maa World Foundation)
 - Email: [chhirolyaprince@gmail.com](mailto:chhirolyaprince@gmail.com)
 - LinkedIn: [Prince Chhirolya](https://www.linkedin.com/in/prince-chhirolya/)
 - Twitter: [Prince Chhirolya](https://twitter.com/pr_chhirolya)
 
+<br>
+
 <p align="center">
-  <img src="MWF-Mission.png" style="max-width: 100%; height: auto;" alt="Maa World Foundation Mission" />
+  <img src="img/MWF-Mission.png" style="max-width: 100%; height: auto;" alt="Maa World Foundation Mission" />
 </p>
