@@ -10,10 +10,6 @@ At Maa World Foundation, we believe education is the key to unlocking dreams and
 
 Our mission is simple yet powerful: education for everyone, everywhere. It doesn’t matter where you come from, how old you are, or what challenges you face -- if you have the will to learn, we are here for you.
 
-We offer courses in multiple languages, covering cutting-edge fields like AI, machine learning, and deep learning, alongside other technical and non-technical subjects. All of this is completely free because we believe knowledge should never come at a cost.
-
-We don’t ask for money. All we ask is one hour of your time each day -- just one hour to invest in your growth and future. Together, we can break barriers, shatter limitations, and ensure that education reaches every corner of the world.
-
 Join us in building a brighter tomorrow. Let’s make education a gift that every heart and mind can embrace. Together, we can change lives.
 
 ## Learn & Contribute ✨
@@ -34,7 +30,7 @@ Feel free to explore these resources to enhance your learning experience!
 `If you have any questions or need help, please don't hesitate to reach out. We are here to support you every step of the way. 🤗`
 
 ## Our Communities 🌐
-<div>
+<div align="center">
     <img src="img/learn-first-program-india.jpg" alt="Aashayein - Learn First Program" height="150" weight="150" />
     <img src="img/aashayein.jpg" alt="Aashayein - Learn First Program" height="150" weight="150" />
     <img src="img/programmers-wwc.jpg" alt="Aashayein - Learn First Program" height="150" weight="150" />
