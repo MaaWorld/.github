@@ -33,7 +33,7 @@ Feel free to explore these resources to enhance your learning experience!
 <div align="center">
     <img src="img/learn-first-program-india.jpg" alt="Aashayein - Learn First Program" height="150" weight="150" />
     <img src="img/aashayein.jpg" alt="Aashayein - Learn First Program" height="150" weight="150" />
-    <img src="img/programmers-wwc.jpg" alt="Aashayein - Learn First Program" height="150" weight="150" />
+    <img src="img/programmers-worldwide.png" alt="Aashayein - Learn First Program" height="150" weight="150" />
     <img src="img/learn-first-program-hub.png" alt="Aashayein - Learn First Program" height="150" weight="150" />
 </div>
 
